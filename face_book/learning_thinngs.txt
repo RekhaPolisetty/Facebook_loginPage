@@ -1,0 +1,8 @@
+npm install axios  ==> to install axios.. for manipulating the data in the server file.
+
+npm install react-icons --save ==> to install the icons into our project...
+
+ npx json-server --watch users_details.json --port 3030 ==> to create the json server url to pass in the axios post and get
+Endpoints:
+http://localhost:3030/users_list
+ needto use the end point url
